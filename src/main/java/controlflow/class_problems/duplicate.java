@@ -22,3 +22,4 @@ public class duplicate {
         System.out.println(findDuplicateTeam(teamNames));
     }
 }
+
