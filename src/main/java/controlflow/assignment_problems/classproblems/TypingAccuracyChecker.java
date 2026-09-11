@@ -1,9 +1,9 @@
 package controlflow.assignment_problems.classproblems;
 
-public @interface Typingaccuracy {
+
     import java.util.Scanner;
 
-class TypingAccuracyChecker {
+ public class TypingAccuracyChecker {
 
     static void checkTypingAccuracy(String original, String typed) {
 
@@ -56,5 +56,4 @@ class TypingAccuracyChecker {
 
         sc.close();
     }
-}
 }
