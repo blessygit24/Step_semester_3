@@ -1,8 +1,8 @@
 package controlflow.assignment_problems;
 
-public class traffic {import java.util.Scanner;
+import java.util.Scanner;
 
-class TrafficSignalStreak {
+ public class TrafficSignalStreak {
 
     static void findLongestStreak(String signalLog) {
 
@@ -49,4 +49,3 @@ class TrafficSignalStreak {
     }
 }
     
-}

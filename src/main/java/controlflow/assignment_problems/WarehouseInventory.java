@@ -1,9 +1,9 @@
 package controlflow.assignment_problems;
 
-public class warehouse {
+
  import java.util.Scanner;
 
-class WarehouseInventory {
+ public class WarehouseInventory {
 
     static void analyzeInventory(int[] sectionA, int[] sectionB) {
 
@@ -88,4 +88,4 @@ class WarehouseInventory {
         sc.close();
     }
 }   
-}
+
