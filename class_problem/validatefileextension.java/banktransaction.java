@@ -1,8 +1,7 @@
 package class_problem.validatefileextension.java;
 
 public class banktransaction {
-    public class BankTransactionReference {
-
+    
     static String normalizeReference(String raw) {
 
         raw = raw.trim();
@@ -71,4 +70,4 @@ public class banktransaction {
         );
     }
 }
-}
+
